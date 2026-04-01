@@ -1,0 +1,25 @@
+1) Explique com suas palavras o que é versionamento de codigo e qual problema ele resolve no desenvolvimento de software.
+R: Versionamento é uma linha do tempo, resolvendo o problema junção de código sem que quebre códigos
+
+2)Explique a diferença entre Git e GitHub.
+R: git versiona codigos sendo uma linha do tempo, git hub guarda/armazena o código criado
+
+3)Explique a função dos comandos: git add, git commit e git push. Dê um exemplo para cada.
+R: git add salva as alterações, git commit juntas as branch, git push salva no repositório 
+
+4)O que é uma branch? Por que ela é importante?
+R: É um ponto de salvamento, dentro de uma linha do tempo. Ela é impotante para separar versões do código entre algo novo ou antigo.
+
+5)Explique o que é um conflito e como ele pode ser resolvido.
+R: Conflito é quando ocorre erros na junção de branchs, apagando a linha em que ocorreu conflito, assim escolhendo a que você quer ficar
+
+6)Explique o que é um conflito e como ele pode ser resolvido.
+R: Representa um conflito, apagando a linha do codigo que não deseja continuar, e deixando a que você deseja ficar
+
+7)O que o git status faz? Dê Exemplos.
+R:
+
+8)Quais comandos de configuração inicial do git?
+R:git config -- global user.name
+  git config -- global user.email
+  git init
